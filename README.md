@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👨🏽‍💻 백앤드 개발자 김재식입니다.
 
 <!--
 **jsjsjskjs/jsjsjskjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

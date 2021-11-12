@@ -1,4 +1,5 @@
 # 👨🏽‍💻 백앤드 개발자 ( 풀스택 지향을 곁들인 )
+> 사운드엔지니어에서 개발자로
 
 ## 👉 <a href="https://jaesiki.notion.site/064b20e88c7d49d788ade76431775168" target="_blank"><img src="https://img.shields.io/badge/My Blog-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 

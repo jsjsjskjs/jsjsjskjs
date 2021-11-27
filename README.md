@@ -15,6 +15,7 @@
 - <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
 - <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+- <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsjsjskjs&layout=compact)](https://github.com/jsjsjskjs/github-readme-stats)
 

@@ -12,7 +12,6 @@
 ## ✍️ Studying (currently)
 
 - <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
 ## ✍️ Study (plan to do)
 

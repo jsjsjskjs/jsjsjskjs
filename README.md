@@ -1,6 +1,6 @@
 # 👨🏽‍💻 백엔드 개발자 김재식입니다.
 
-> Node.js를 통해서 백엔드를 개발하고 현재 TypeScript와 NestJS를 중점으로 학습 중 입니다.
+> Node.js를 통해서 백엔드를 개발하고 현재 NestJS를 중점으로 학습 중 입니다.
 
 > '리팩터링 2판' 서적을 통해서 체계적인 코드 구조를 학습하고자 합니다.
 ## <a href="https://jaesiki.notion.site/064b20e88c7d49d788ade76431775168" target="_blank"><img src="https://img.shields.io/badge/My Blog (click!)-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>

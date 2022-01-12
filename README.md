@@ -21,7 +21,7 @@
 - <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsjsjskjs&layout=compact)](https://github.com/jsjsjskjs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsjsjskjs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jsjsjskjs/jsjsjskjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

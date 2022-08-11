@@ -2,7 +2,7 @@
 
 > Node.js & NestJS를 통해서 백엔드를 개발하고 있습니다.
 
-> 마이크로 서비스를 위한 아키텍쳐, AWS 아키텍쳐, Docker 를 중점으로 학습 중 입니다. 
+> 마이크로 서비스를 위한 아키텍쳐, AWS 아키텍쳐, AWS IoT, Docker 를 중점으로 학습 중 입니다. 
 
 > 새로운 언어로 JAVA를 학습 중 입니다.
 ## <a href="https://jaesiki.notion.site/064b20e88c7d49d788ade76431775168" target="_blank"><img src="https://img.shields.io/badge/My Blog (click!)-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>

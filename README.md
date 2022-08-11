@@ -19,6 +19,7 @@
 - <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 - <img src="https://img.shields.io/badge/AWS ECS-FF9900?style=flat-square&logo=Amazon ECS&logoColor=white"/>
 - <img src="https://img.shields.io/badge/AWS IoT-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+- <img src="https://img.shields.io/badge/AWS DynamoDB-4053D6?style=flat-square&logo=Amazon DynamoDB&logoColor=white"/>
 - <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
 - <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">

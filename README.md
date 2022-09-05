@@ -2,9 +2,10 @@
 
 > Node.js & NestJS를 통해서 백엔드를 개발하고 있습니다.
 
-> 마이크로 서비스를 위한 아키텍쳐, AWS 아키텍쳐, AWS IoT, Docker 를 중점으로 학습 중 입니다. 
+> NestJS와 GraphQL을 조합하여 Unit, E2E Test를 진행하는 과정을 학습 중 입니다.
 
-> 새로운 언어로 JAVA를 학습 중 입니다.
+> 마이크로 서비스를 위한 아키텍쳐, AWS 아키텍쳐, AWS IoT 를 중점으로 학습 중 입니다. 
+
 ## <a href="https://jaesiki.notion.site/064b20e88c7d49d788ade76431775168" target="_blank"><img src="https://img.shields.io/badge/My Blog (click!)-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
 ## 💪 Stack
@@ -22,10 +23,10 @@
 - <img src="https://img.shields.io/badge/AWS DynamoDB-4053D6?style=flat-square&logo=Amazon DynamoDB&logoColor=white"/>
 - <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
-- <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 ## ✍️ Study (plan to do)
 
 - <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+- <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsjsjskjs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

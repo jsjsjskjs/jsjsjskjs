@@ -24,10 +24,6 @@
 - <img src="https://img.shields.io/badge/AWS DynamoDB-4053D6?style=flat-square&logo=Amazon DynamoDB&logoColor=white"/>
 - <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
-## ✍️ Study (plan to do)
-
-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-- <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsjsjskjs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

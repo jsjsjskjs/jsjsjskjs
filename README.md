@@ -2,10 +2,6 @@
 
 > Node.js & NestJS를 통해서 백엔드를 개발하고 있습니다.
 
-> NestJS와 GraphQL을 조합하여 Unit, E2E Test를 진행하는 과정을 학습 중 입니다.
-
-> AWS 구축 아키텍쳐, 마이크로 서비스를 위한 아키텍쳐, AWS IoT 를 중점으로 학습 중 입니다. 
-
 ## <a href="https://jaesiki.notion.site/064b20e88c7d49d788ade76431775168" target="_blank"><img src="https://img.shields.io/badge/My Blog (click!)-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
 ## Skills

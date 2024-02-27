@@ -14,6 +14,7 @@
 - <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white"/>
 - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/> 
 - <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=Amazon Lambda&logoColor=white"/> <img src="https://img.shields.io/badge/AWS API Gateway-FF4F8B?style=flat-square&logo=Amazon API Gateway&logoColor=white"/> <img src="https://img.shields.io/badge/AWS CodePipeline-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Route 53-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS SES-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+- <img src="https://img.shields.io/badge/AWS IoT-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
 ## ✍️ Studying (currently)
 
